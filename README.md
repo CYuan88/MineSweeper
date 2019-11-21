@@ -1,5 +1,6 @@
 # MineSweeper
-a simple java local project for making a minesweeper game
+ A simple java local project for making a minesweeper game.<br/>
+ If you have java environment, you can just download the MineSweeper.jar to play.
 ## User Interface
 - Start Interface<br/>
 ![avatar](https://github.com/yuanAiAA/MineSweeper/blob/master/MineSweeper/out/production/MineSweeper/result1.PNG)
